@@ -1,2 +1,2 @@
 # Neural-Network
-Neural Network using Python
+Neural Network using Python and Numpy
